@@ -12,7 +12,6 @@
 
 <!-- Social Badges -->
 [![Instagram](https://img.shields.io/badge/Instagram-kholifh__pradh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kholifh_pradh/)
-[![Twitter/X](https://img.shields.io/badge/X-vv__hurricane-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vv_hurricane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya-hidayat-86b09222b)
 [![GitHub](https://img.shields.io/badge/GitHub-kholifpra9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kholifpra9)
 
