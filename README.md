@@ -43,7 +43,7 @@ Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile
 ## 😋 Fun Facts
 
 - Bahan bakar utama: **nasi + Mukbang Emih**. Kalau belum makan, PR-nya nanti dulu
-- Punya Suzuki RC100 — motor jadul yang lebih sering dipamerin dari pada diservice 🏍️
+- Punya Suzuki RC100 motor jadul yang lebih sering dipamerin dari pada diservice 🏍️
 - Joki tugas tersertifikasi *(disclaimer: ini buat nambah skill, bukan bisnis)*
 - Debugging sambil makan > debugging sambil lapar. Produktivitas naik 200% *(data ga valid)*
 
