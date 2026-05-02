@@ -9,7 +9,7 @@
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-kholifh__pradh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kholifh_pradh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya-hidayat-86b09222b)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👋 Hi, I'm Kholif Prasetyo Aditya Hidayat
 
-Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile applications, mostly working with Laravel on the backend and Flutter or React on the frontend. Still curious about a lot of things, including a bit of game dev on the side.
+Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile applications — mostly Laravel on the backend, Flutter or React on the frontend. Still curious about a lot of things, including a bit of game dev on the side.
 
 ---
 
@@ -44,11 +44,33 @@ Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile
 
 ---
 
-## 📊 Stats
+## 😋 Fun Facts
+
+- Debugging sambil makan > debugging sambil lapar. Produktivitas naik 200% (data tidak valid)
+- Kalau ada bug aneh, solusi pertama: tutup laptop, makan dulu, buka lagi — kadang works
+- Mukbang Emih is the real fuel behind every `git push`
+- Masih bisa relate sama error yang sama dari 2 tahun lalu
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kholifpra9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholifpra9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+
+<img src="https://github-stats-alpha.vercel.app/api?username=kholifpra9&cc=0D1117&tc=A78BFA&ic=ffffff&bc=0D1117" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kholifpra9&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholifpra9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF)](https://github.com/kholifpra9)
+
 </div>
 
 ---
