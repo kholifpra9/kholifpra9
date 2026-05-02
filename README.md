@@ -47,9 +47,8 @@ Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile
 ## 😋 Fun Facts
 
 - Debugging sambil makan > debugging sambil lapar. Produktivitas naik 200% (data tidak valid)
-- Kalau ada bug aneh, solusi pertama: tutup laptop, makan dulu, buka lagi — kadang works
+- Kalau ada bug aneh, solusi pertama: tutup laptop, makan dulu, buka lagi kadang works
 - Mukbang Emih is the real fuel behind every `git push`
-- Masih bisa relate sama error yang sama dari 2 tahun lalu
 
 ---
 
