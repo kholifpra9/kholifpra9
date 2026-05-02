@@ -9,7 +9,7 @@
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-kholifh__pradh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kholifh_pradh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya-hidayat-86b09222b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo/)
 
 </div>
 
