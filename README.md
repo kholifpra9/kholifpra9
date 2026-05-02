@@ -19,7 +19,7 @@
 
 ## 👋 Hi, I'm Kholif Prasetyo Aditya Hidayat
 
-Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile applications, mostly working with Laravel on the backend and Flutter or React on the frontend. Still curious about a lot of things — including a bit of game dev on the side.
+Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile applications, mostly working with Laravel on the backend and Flutter or React on the frontend. Still curious about a lot of things, including a bit of game dev on the side.
 
 ---
 
