@@ -9,7 +9,7 @@
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-kholifh__pradh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kholifh_pradh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya-hidayat-86b09222b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya)
 
 </div>
 
@@ -25,40 +25,31 @@ Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile
 
 ## 🛠️ Tech Stack
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,mysql&theme=dark" />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap,html,css,js&theme=dark" />
+
+### 🧰 Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+
+</div>
 
 ---
 
 ## 😋 Fun Facts
 
-- Debugging sambil makan > debugging sambil lapar. Produktivitas naik 200% (data tidak valid)
-- Kalau ada bug aneh, solusi pertama: tutup laptop, makan dulu, buka lagi kadang works
-- Mukbang Emih is the real fuel behind every `git push`
+- Bahan bakar utama: **nasi + Mukbang Emih**. Kalau belum makan, PR-nya nanti dulu
+- Punya Suzuki RC100 — motor jadul yang lebih sering dipamerin dari pada diservice 🏍️
+- Joki tugas tersertifikasi *(disclaimer: ini buat nambah skill, bukan bisnis)*
+- Debugging sambil makan > debugging sambil lapar. Produktivitas naik 200% *(data ga valid)*
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-alpha.vercel.app/api?username=kholifpra9&cc=0D1117&tc=A78BFA&ic=ffffff&bc=0D1117" />
-
-</div>
 
 <div align="center">
 
@@ -68,7 +59,14 @@ Fullstack developer based in Cianjur, Indonesia. I enjoy building web and mobile
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholifpra9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF)](https://github.com/kholifpra9)
+<img src="https://github-readme-stats.vercel.app/api?username=kholifpra9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&rank_icon=github" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kholifpra9&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kholifpra9&theme=tokyonight&hide_border=true" />
 
 </div>
 
