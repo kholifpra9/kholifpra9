@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Kholif%20Prasetyo&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer%20%7C%20Cianjur%2C%20Indonesia&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Kholif%20Prasetyo&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer%20(Laravel%20%7C%20Next.js)&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Laravel+%7C+Next.js+%7C+TypeScript;Supabase+%7C+AI+Integration;Hoping+for+the+light+I+shine+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Specializing+in+Laravel+%26+Next.js;TypeScript+%7C+Supabase+%7C+AI+Integration;Hoping+for+the+light+I+shine+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-kholifh__pradh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kholifh_pradh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholif-prasetyo-aditya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kholif%20Prasetyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholifprasetyo)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👋 Hi, I'm Kholif Prasetyo Aditya Hidayat
 
-Fullstack developer based in Cianjur, Indonesia. I love building web and mobile applications using modern stacks like **Laravel, Next.js, TypeScript**, and **Flutter**. Recently, I've been exploring **AI integration (Groq & Claude)** and cloud backend solutions like **Supabase**.
+Fullstack Web Developer based in Cianjur, Indonesia, specializing in **Laravel** and **Next.js**. I build scalable web apps, work with **TypeScript, PostgreSQL/MySQL, Supabase**, and integrate **AI technologies (Groq AI & Claude)** into modern software products.
 
 ---
 
@@ -27,11 +27,14 @@ Fullstack developer based in Cianjur, Indonesia. I love building web and mobile 
 
 <div align="center">
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,postgres,mysql,supabase&theme=dark" />
+### 🚀 Core Frameworks & Fullstack
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,ts,php,js&theme=dark" />
+
+### ⚙️ Backend, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,nodejs&theme=dark" />
 
 ### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,flutter,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css&theme=dark" />
 
 ### 🤖 AI Integration & Ecosystem
 <p>
