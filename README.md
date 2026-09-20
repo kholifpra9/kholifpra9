@@ -67,11 +67,7 @@ Fullstack Web Developer based in Cianjur, Indonesia, specializing in **Laravel**
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kholifpra9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&rank_icon=github" />
-
-</div>
 
 <div align="center">
 
