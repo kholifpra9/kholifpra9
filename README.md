@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Kholif%20Prasetyo&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Specializing+in+Laravel+%26+Next.js;TypeScript+%7C+Supabase+%7C+AI+Integration;Hoping+for+the+light+I+shine+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Specializing+in+Laravel+%26+Next.js;TypeScript+%7C+Supabase+%7C+AI+Integration" alt="Typing SVG" />
 </a>
 
 <br/>
