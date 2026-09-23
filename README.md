@@ -21,6 +21,10 @@
 
 Fullstack Web Developer based in Cianjur, Indonesia, specializing in **Laravel** and **Next.js**. I build scalable web apps, work with **TypeScript, PostgreSQL/MySQL, Supabase**, and integrate **AI technologies (Groq AI & Claude)** into modern software products. On the side, I also enjoy crafting mobile applications using **Flutter**.
 
+- 🔭 **Currently working on:** Web Applications & AI-driven Solutions
+- ⚡ **Tech Focus:** Laravel, Next.js, Supabase & Web Performance
+- 💡 **Interested in:** AI Integrations & Modern Frontend Architecture
+
 ---
 
 ## 🛠️ Tech Stack
@@ -58,13 +62,25 @@ Fullstack Web Developer based in Cianjur, Indonesia, specializing in **Laravel**
 
 </div>
 
-
+<br/>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kholifpra9&theme=tokyonight&hide_border=true" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kholifpra9&theme=tokyonight&hide_border=true" />
 
+</div>
+
+---
+
+## 🎮 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholifpra9/kholifpra9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholifpra9/kholifpra9/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kholifpra9/kholifpra9/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
